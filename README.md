@@ -11,6 +11,8 @@ jupyter:
   nbformat_minor: 0
 ---
 
+link: [https://colab.research.google.com/drive/1sZEyFqWfXtA8_TtctdNcJ8sZKeBI7Qtf?usp=sharing](https://colab.research.google.com/drive/1sZEyFqWfXtA8_TtctdNcJ8sZKeBI7Qtf?usp=sharing)
+
 <div class="cell markdown" id="mEOaOiomZyVr">
 
 Import libraries
